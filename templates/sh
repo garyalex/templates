@@ -1,4 +1,10 @@
 #!/bin/bash
+# Shell script 
+# Gary Alexander garyalex@gmail.com github.com/garyalex
+# 
+# Summary:
+#
+
 set -eu
 
-# cursor: 3 del
+# VARIABLES SETUP

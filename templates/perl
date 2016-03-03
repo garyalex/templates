@@ -1,6 +1,10 @@
 #!/usr/bin/env perl
-use 5.014;
+# Perl script 
+# Gary Alexander garyalex@gmail.com github.com/garyalex
+# 
+# Summary:
+#
+
 use warnings;
 
 
-# cursor: 5 del
